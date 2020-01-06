@@ -1,7 +1,8 @@
-# Change Log
+# Changelog
 
-All notable changes to this project will be documented in this file.
-See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### 0.0.12 (2020-01-06)
 
 ## [0.0.11](https://github.com/nujek/smooth-scroll-module/compare/@nuxtjs/smooth-scroll@0.0.10...@nuxtjs/smooth-scroll@0.0.11) (2019-12-24)
 
